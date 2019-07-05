@@ -11,7 +11,7 @@
 
 源码会存储在github上：https://github.com/weimin0812/screen_sword_offer
 
-视频会存储在b站及百度网盘：
+视频会存储在百度网盘：链接: https://pan.baidu.com/s/1fRXtIlQ6lj6jXgWkwBW3zg 提取码: np3m 
 
 ##为什么
 最初的想法是直播一口气AC牛客上的剑指offer，想到可能会耗时比较长。
