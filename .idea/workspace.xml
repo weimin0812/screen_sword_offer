@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fb2b359-7ed8-4771-bbc6-a34e1dd9d55a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/offer/question27/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/offer/question28/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/offer/question29/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/offer/question28/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/offer/question29/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            <state relative-caret-position="608">
+              <caret line="45" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -59,6 +58,7 @@
         <option value="$PROJECT_DIR$/src/main/java/offer/question26/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/question27/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/question28/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/offer/question29/Solution.java" />
       </list>
     </option>
   </component>
@@ -75,6 +75,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,7 +98,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -153,17 +153,19 @@
       <workItem from="1562899331809" duration="1385000" />
       <workItem from="1563072935414" duration="2336000" />
       <workItem from="1563158073068" duration="1907000" />
-      <workItem from="1563244915333" duration="1194000" />
+      <workItem from="1563244915333" duration="1247000" />
+      <workItem from="1563331056186" duration="1402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13324000" />
+    <option name="totallyTimeSpent" value="14779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14377682" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27539343" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -181,7 +183,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="SonarLint" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.426506" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.13493976" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -346,8 +348,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/offer/question28/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="272">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/question29/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
         </state>
       </provider>
     </entry>
