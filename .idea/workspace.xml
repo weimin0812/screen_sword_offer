@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fb2b359-7ed8-4771-bbc6-a34e1dd9d55a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/offer/question53/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/offer/question54/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/offer/question55/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -13,12 +14,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/offer/question53/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/offer/question55/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="50" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
+            <state relative-caret-position="300">
+              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -83,6 +84,8 @@
         <option value="$PROJECT_DIR$/src/main/java/offer/question51/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/question52/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/question53/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/offer/question54/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/offer/question55/Solution.java" />
       </list>
     </option>
   </component>
@@ -99,8 +102,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,7 +131,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564370375739" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564370418562" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -251,12 +254,13 @@
       <workItem from="1564022475278" duration="1261000" />
       <workItem from="1564109094855" duration="1156000" />
       <workItem from="1564294970075" duration="1344000" />
-      <workItem from="1564367972154" duration="2397000" />
+      <workItem from="1564367972154" duration="2518000" />
+      <workItem from="1564454401748" duration="1316000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30705000" />
+    <option name="totallyTimeSpent" value="32142000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -271,7 +275,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19241774" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19527897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -281,7 +285,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.09879518" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.61445785" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
@@ -289,7 +293,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="SonarLint" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.036144577" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.15662651" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -347,9 +351,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/main.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/offer/question13/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -706,8 +707,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/offer/question53/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="50" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
+        <state relative-caret-position="114">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/question54/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/question55/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
         </state>
       </provider>
     </entry>
