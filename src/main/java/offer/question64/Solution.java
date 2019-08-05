@@ -6,7 +6,7 @@ import java.util.LinkedList;
 public class Solution {
     public ArrayList<Integer> maxInWindows(int[] num, int size) {
         ArrayList<Integer> ret = new ArrayList<>();
-        if (num == null || num.length == 0 || size < 1 || size > num.length) {
+        if (num == null || num.length == 0 || size <= 0 || size > num.length) {
             return ret;
         }
 
@@ -21,7 +21,8 @@ public class Solution {
                 queue.pollLast();
             }
 
-            queue.add(i);
+            queue.offer(i);
+
             if (beginIndex >= 0) {
                 ret.add(num[queue.peekFirst()]);
             }
